@@ -4,7 +4,7 @@ This is the source for the proxy linked to the patcher. This proxy adds the corr
 This version was created by @MaxTCodes and therefore maintained by them. **I will not be updating this myself if anything updates**.
 
 ## This is being hosted for you!
-Darkhub Developers have donated some of their server power, to host a version of this proxy for us! It is completly unlimited, and all the code is here! The url is [ropro.darkhub.cloud](//ropro.darkhub.cloud)! 
+Darkhub Developers have donated some of their server power, to host a version of this proxy for us! It is completly unlimited, and all the code is here! The url is [ropro.maxt.church](//ropro.maxt.church)! 
 
 ## Grabbing your own PHPSESSID
 - Open the extension's developer console by heading to the extension page for your browser and pressing on the underlined link beside "Inspect views"
